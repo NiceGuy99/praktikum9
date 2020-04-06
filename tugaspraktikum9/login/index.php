@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat Login Dengan PHP dan MySQLi - WWW.MALASNGODING.COM</title>
+	<title>Login</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
